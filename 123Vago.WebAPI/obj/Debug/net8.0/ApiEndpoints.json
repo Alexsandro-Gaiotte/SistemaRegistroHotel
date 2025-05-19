@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "_123Vago.WebAPI.Controllers.HotelController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Hotel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "_123Vago.Servico.HotelDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_123Vago.WebAPI.Controllers.HotelController",
+    "Method": "Listar",
+    "RelativePath": "api/Hotel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
